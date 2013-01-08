@@ -1,0 +1,1 @@
+This is a new file for submodule2 to try a pull request.
